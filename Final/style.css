@@ -1,0 +1,71 @@
+body {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 960px;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-family: "Courier New", "Arial", sans-serif;
+  color: #222;
+  background-color: none;
+}
+
+a {
+  color: #222;
+}
+
+a:visited {
+  color: olivedrab;
+}
+
+a: hover {
+  color: #222
+}
+
+a: active {
+  color: rgb(255,182,193);
+}
+
+ul {
+  margin: 0;
+  padding-top: 20px;
+  text-align: center;
+  list-style-type: square;;
+
+}
+
+
+li {
+  font-family: arial;
+  text-align: left;
+  display: inline;
+  float: 50px;
+  list-style: none;
+  padding: 1px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  color: olivedrab;
+  font-weight: 200px;
+}
+
+h2 {
+  text-align: center;
+  font-weight: lighter;
+  font-family: "Arial";
+}
+
+h3 {
+  font-family: "Arial";
+  font-weight: lighter;
+}
+
+
+
+img {
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+
+}
